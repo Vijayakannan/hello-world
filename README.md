@@ -1,5 +1,2 @@
-# hello-world
-testing the access
-Adding one line boss
-
-another line
+This wrapper will help to interlink the C and C++ codes.
+please reach vijayakannan.a@outlook.com for more clarity.
