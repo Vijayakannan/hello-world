@@ -6,6 +6,5 @@
 int main()
 {
     setCoreFreq(); //Main wrapper call 
-
     return 0;
 }
